@@ -35,6 +35,7 @@ public:
     }
 };
 
+//Example
 int main(){
     Solution sol;
     vector<int> position = {5,4,3,2,1,1000000000};
